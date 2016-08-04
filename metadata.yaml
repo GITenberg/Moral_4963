@@ -1,0 +1,34 @@
+_repo: Moral_4963
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Recht, Charles
+    birthdate: 1887
+    deathdate: 1965
+    gutenberg_agent_id: '1608'
+    url: http://www.gutenberg.org/2009/agents/1608
+creator:
+  author:
+    agent_name: Thoma, Ludwig
+    alias: Schlemihl, Peter
+    birthdate: 1867
+    deathdate: 1921
+    gutenberg_agent_id: '1607'
+    url: http://www.gutenberg.org/2009/agents/1607
+    wikipedia: http://en.wikipedia.org/wiki/Ludwig_Thoma
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4963'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German drama -- Translations into English'
+- !lcsh 'Comedies'
+- !lcc 'PT'
+- GITenberg
+title: Moral
+url: http://www.gutenberg.org/ebooks/4963
